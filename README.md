@@ -1,8 +1,11 @@
 I have collected this wordlist from github repos.
 
-  Download the 247 MB zip file from here:-
+  Download the files from here:-
   
-  https://drive.google.com/file/d/11llOJYKByc5fRUYeQhD-7WPlXJ2iW7qW/view?usp=sharing
+  https://drive.google.com/file/d/1-xwGcxJTa9qKkWbi2wNBwLBMD02tPtDF/view?usp=sharing
+  
+  https://drive.google.com/file/d/11sYWQuCmO3hWkhfGxo6C77CLPAgEassX/view?usp=sharing
+  
   
   
   
